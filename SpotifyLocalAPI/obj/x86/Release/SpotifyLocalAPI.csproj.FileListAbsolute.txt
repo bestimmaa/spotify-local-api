@@ -1,0 +1,7 @@
+C:\Users\Christoph Halang\Documents\spotify-local-api\SpotifyLocalAPI\bin\x86\Release\SpotifyLocalAPI.dll
+C:\Users\Christoph Halang\Documents\spotify-local-api\SpotifyLocalAPI\bin\x86\Release\SpotifyLocalAPI.pdb
+C:\Users\Christoph Halang\Documents\spotify-local-api\SpotifyLocalAPI\bin\x86\Release\doc.xml
+C:\Users\Christoph Halang\Documents\spotify-local-api\SpotifyLocalAPI\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Christoph Halang\Documents\spotify-local-api\SpotifyLocalAPI\obj\x86\Release\SpotifyLocalAPI.csprojResolveAssemblyReference.cache
+C:\Users\Christoph Halang\Documents\spotify-local-api\SpotifyLocalAPI\obj\x86\Release\SpotifyLocalAPI.dll
+C:\Users\Christoph Halang\Documents\spotify-local-api\SpotifyLocalAPI\obj\x86\Release\SpotifyLocalAPI.pdb

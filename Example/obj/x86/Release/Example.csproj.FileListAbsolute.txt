@@ -1,0 +1,5 @@
+C:\Users\Christoph Halang\Documents\spotify-local-api\Binaries\Example.exe
+C:\Users\Christoph Halang\Documents\spotify-local-api\Binaries\Example.pdb
+C:\Users\Christoph Halang\Documents\spotify-local-api\Example\obj\x86\Release\Example.csprojResolveAssemblyReference.cache
+C:\Users\Christoph Halang\Documents\spotify-local-api\Example\obj\x86\Release\Example.exe
+C:\Users\Christoph Halang\Documents\spotify-local-api\Example\obj\x86\Release\Example.pdb

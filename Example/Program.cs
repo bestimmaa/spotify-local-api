@@ -20,7 +20,7 @@ namespace Example
 
             try
             {
-                SpotifyAPI API = new SpotifyAPI(SpotifyAPI.GetOAuth(), "jariz-example.spotilocal.com");
+                SpotifyAPI API = new SpotifyAPI(SpotifyAPI.GetOAuth(), "127.0.0.1");
                 Responses.CFID cfid = API.CFID; //It's required to get the contents of API.CFID before doing anything, even if you're not intending to do anything with the CFID
                 if (cfid.error != null)
                 {
